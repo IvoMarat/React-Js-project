@@ -1,0 +1,11 @@
+.carritoBoton{
+    background-color: transparent;
+    cursor: pointer;
+    color: white;
+    width: 50px;
+    border-color: transparent;
+}
+
+.carritoBoton:hover{
+    color:  #f5cb5c;
+}

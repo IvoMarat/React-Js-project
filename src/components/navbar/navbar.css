@@ -1,0 +1,29 @@
+.container_navbar{
+    background-color: #242423;   
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container_navbar_logo{
+    height: 300px;
+    cursor: pointer;
+    border-radius: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container_navbar_ul{
+    display: flex;
+}
+
+.container_navbar_ul li:hover{
+    color:  #f5cb5c;
+}
+
+.container_navbar_ul li{
+    margin: 30px;
+    cursor: pointer;
+}
