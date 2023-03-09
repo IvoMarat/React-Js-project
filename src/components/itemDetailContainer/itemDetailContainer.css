@@ -1,0 +1,32 @@
+.cuadro{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cuadro_img{
+    width: 500px;
+}
+
+.cuadro_button{
+    background-color: #f5cb5c;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.cuadro_button:hover{
+    background-color: gray;
+}
+
+.cuadro_contador{
+    background-color: #f5cb5c;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.cuadro_contador:hover{
+    background-color: gray;
+}

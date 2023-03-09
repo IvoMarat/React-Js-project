@@ -1,0 +1,83 @@
+[
+{
+    "id": 1,
+    "titulo": "CH Men",
+    "imagen": "https://www.lafranco.com.ar/5261-large_default/ch-edt-100ml.jpg",
+    "categoria": "ch",
+    "precio": 15000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 2,
+    "titulo": "CH Bad Boy",
+    "imagen": "https://d3cdlnm7te7ky2.cloudfront.net/media/catalog/product/cache/3caedb57c154f4c66adc1fae2b6a3bf5/1/2/129343-b-bad-boy-edt-50ml_1.jpg",
+    "categoria": "ch",
+    "precio": 25000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 3,
+    "titulo": "CH 212 Vip",
+    "imagen": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/168/110/products/212-vip-men-carolina-herrera-original-100ml-perfumesfreeshop-d_nq_np_878678-mla29462211881_022019-f_11-8ebb2d9cb39203f4dd15950156039050-640-0.jpg",
+    "categoria": "ch",
+    "precio": 20000,
+    "descripcion": "lorem"
+    
+},
+
+{
+    "id": 4 ,
+    "titulo" :"CK All",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_872386-MLA31634504824_072019-O.webp",
+    "categoria": "ck",
+    "precio": 18000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 5,
+    "titulo": "Ck One",
+    "imagen": "https://rougeb2car.vtexassets.com/arquivos/ids/181229/CK-One-EDT-100ml-2.jpg?v=637820870822970000",
+    "categoria": "ck",
+    "precio": 27000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 6,
+    "titulo": "Ck Every One",
+    "imagen": "https://static.beautytocare.com/media/catalog/product/cache/global/image/1300x1300/85e4522595efc69f496374d01ef2bf13/c/a/calvin-klein-ck-everyone-eau-de-toilette-200ml.jpg",
+    "categoria": "ck",
+    "precio": 22000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 7,
+    "titulo": "PR Invictus",
+    "imagen": "https://perfugroupar.vtexassets.com/arquivos/ids/161501/3349668515653_1.jpg?v=637688671274530000",
+    "categoria":"pr",
+    "precio": 30000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 8,
+    "titulo": "PR One Million",
+    "imagen": "https://images.fravega.com/f1000/af684a26da5b301e1fcb53f4eeb6d255.jpg",
+    "categoria": "pr",
+    "precio": 29000,
+    "descripcion": "lorem"
+},
+
+{
+    "id": 9,
+    "titulo": "PR Pure XS",
+    "imagen": "https://static.beautytocare.com/media/catalog/product/cache/global/image/1300x1300/85e4522595efc69f496374d01ef2bf13/p/a/paco-rabanne-pure-xs-for-men-eau-de-toilette-150ml.jpg",
+    "categoria": "pr",
+    "precio": 24000,
+    "descripcion":"lorem"
+}
+]
